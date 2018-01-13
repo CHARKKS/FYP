@@ -1,0 +1,14 @@
+#EGR1 probes
+early growth response 1
+GRCh37.p13
+chr 5
+NC_000005.9(137801181--137805004)
+
+cd Oligopaint
+python ./input_blocks.py
+##EGR1.fas
+##chr5
+##new file generated in_EGR1.fas
+
+
+
